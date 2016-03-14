@@ -1,0 +1,19 @@
+{
+  "name": "jquery-router",
+  "version": "0.0.9",
+  "description": "jquery router",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilesun/jquery-router.git"
+  },
+  "keywords": [
+    "jquery",
+    "router"
+  ],
+  "author": "wilesun@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilesun/jquery-router/issues"
+  },
+  "homepage": "https://github.com/wilesun/jquery-router#readme"
+}
